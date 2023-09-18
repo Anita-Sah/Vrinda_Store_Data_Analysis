@@ -1,2 +1,4 @@
-# Vrinda_Store_Data_Analysis
-Created an annual sales report for the Vrinda Store for 2022. So that Vrinda Store can understand its customers and grow sales in 2023
+# Vrinda_Store_Data_Analysis_Using_Excel
+* Created an annual sales report for the Vrinda Store for 2022. So that Vrinda Store can understand its customers and grow sales in 2023
+* Steps involved: Data cleaning, data processing, data analysis, interactive dashboard creation, and concluding insights 
+* A final conclusion is drawn as to target women customers of the age group (30–49 years) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads, offers, discounts, etc. available on Amazon, Myntra, and Flipkart
